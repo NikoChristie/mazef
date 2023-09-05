@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvikvQV1HXmisslU7ymXVx28gIlLJp3oIK0TyHXkuIZoi5NzV0z8/+PeBudjpTsajV2ZRdrWLXTWvad2RU4wbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12044\\Desktop\\Portfolio\\mazef\\mazef.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12044\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
